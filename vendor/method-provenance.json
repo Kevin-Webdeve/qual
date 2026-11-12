@@ -1,0 +1,9 @@
+{
+  "helper_url": "https://compressbase.com/method-api/sl-sr.mjs",
+  "helper_sha256": "fca37be97a8dee4fc8c5a418c204f0729b7fece520d6e79282723f354eb28bc5",
+  "helper_documentation": "https://compressbase.com/method-api",
+  "node_version": "v26.13.1",
+  "node_archive_url": "https://nodejs.org/dist/v26.13.1/node-v26.13.1-win-x64.zip",
+  "node_archive_sha256": "e2edda75bfb089654705cf65a13b58933bfd5f57148e8ebda916f58a2474f1f7",
+  "notice": "Powered by CompressBase. Public local SL/SR helper, unmodified. No legacy patch API calls."
+}

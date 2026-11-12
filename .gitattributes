@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.bat text eol=crlf
+# Keep the public helper byte-identical for its SHA256 integrity check.
+vendor/method/sl-sr.mjs -text
